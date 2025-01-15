@@ -26,4 +26,21 @@ Chapter 1 References
     [Doing Data Science at Twitter](https://oreil.ly/xqjAx)
 
 9.  Paramita (Guha) Ghosh, Dataversity, November 12, 2021:
-    [Data Architect vs. Data Engineer](https://oreil.ly/TlyZY)               
+    [Data Architect vs. Data Engineer](https://oreil.ly/TlyZY)
+
+10. Leigh Dodds, Lost Boy blog, January 31, 2020:
+    [Do Data Scientists Spend 80% of Their Time Cleaning Data? Turns Out, No?](https://oreil.ly/szFww)
+
+11. Alex Woodle, July 6, 2020:
+    [Data Prep Still Dominates Data Scientists’ Time, Survey Finds](https://oreil.ly/jDVWF)
+
+12. [The AI Hierarchy of Needs](https://oreil.ly/1RJOR) by Monica Rogati.
+    
+13. [The AlphaGo research page](https://oreil.ly/mNB6b)
+
+14. [Big Data Will Be Dead in Five Years](https://oreil.ly/R2Rus) by Lewis Gavin
+
+15. Building Analytics Teams by John K. Thompson (Packt)
+
+16. Chapter 1 of [What Is Data Engineering](https://oreil.ly/7LSon) by Lewis Gavin (O’Reilly) 
+            
